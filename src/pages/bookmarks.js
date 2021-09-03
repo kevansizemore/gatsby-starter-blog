@@ -112,7 +112,6 @@ const Bookmarks = ({ data, location }) => {
         <li><a href="https://www.nelnet.com/" target="_blank" rel="noopener noreferrer">Nelnet</a></li>
         <li><a href="https://www.paypal.com/" target="_blank" rel="noopener noreferrer">PayPal</a></li>
         <li><a href="https://www.rocketmortgage.com/" target="_blank" rel="noopener noreferrer">Rocket Mortgage</a></li>
-        <li><a href="https://www.mysynchrony.com/" target="_blank" rel="noopener noreferrer">Synchrony Bank</a></li>
         <li><a href="https://www.wealthfront.com/" target="_blank" rel="noopener noreferrer">Wealthfront</a></li>
       </ul>
       <a href="#top">Return to categories list.</a>
